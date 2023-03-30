@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  udoit:
+  - apiVersion: v2
+    appVersion: 3.3.0
+    created: "2023-03-30T14:43:28.785521883Z"
+    description: A Helm chart to deploy UDOIT to Kubernetes
+    digest: 70a0b4662cddebc2a05e7450b2950ca9235fc3001b78610c9688b11e1dea1688
+    keywords:
+    - udoit
+    - accessibility
+    - LMS
+    name: udoit
+    type: application
+    urls:
+    - https://github.com/MiamiOH/helm-udoit/releases/download/udoit-0.9.2/udoit-0.9.2.tgz
+    version: 0.9.2
+generated: "2023-03-30T14:43:28.785530083Z"
